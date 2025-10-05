@@ -17,7 +17,7 @@ namespace financeApp.Models
         public int Id { get; set; }
 
         [Required]
-        public string Description { get; set; }
+        public string Description { get; set; } = "";
 
         [Required]
         [Range(0.01 , double.MaxValue, ErrorMessage ="Type a correct Amount")]

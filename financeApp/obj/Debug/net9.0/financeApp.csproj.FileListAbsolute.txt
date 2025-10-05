@@ -228,3 +228,5 @@
 /home/cribi/finance_web_app/financeApp/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
 /home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/financeApp.csproj.AssemblyReference.cache
 /home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/financeApp.csproj.Up2Date
+/home/cribi/finance_web_app/financeApp/bin/Debug/net9.0/Npgsql.dll
+/home/cribi/finance_web_app/financeApp/bin/Debug/net9.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
