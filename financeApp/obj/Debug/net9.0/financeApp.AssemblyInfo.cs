@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("financeApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c27752ac01ff7b8083bcefdda6f2fd7546436a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa1877bee6c81ed2e5863907a4b4b9acd2fe8d60")]
 [assembly: System.Reflection.AssemblyProductAttribute("financeApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("financeApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
