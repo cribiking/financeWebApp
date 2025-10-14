@@ -20,6 +20,6 @@ namespace financeApp.Data
         public FinanceAppContext(DbContextOptions<FinanceAppContext> options) : base(options) { }
         
         //Instance we'll use to interact with our data base
-        DbSet<Expense> Expenses { get; set; }
+        public DbSet<Expense> Expenses { get; set; }
     }
 }

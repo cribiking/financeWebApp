@@ -4,6 +4,11 @@ using financeApp.Models;
 
 namespace financeApp.Controllers;
 
+/*
+Take control of the backend of our app, takes requests from users, querys the necessary data from
+the database, ans then return the prper anwer with the correponding view to the user
+*/
+
 public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
