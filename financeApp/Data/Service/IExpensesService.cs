@@ -8,9 +8,17 @@ namespace financeApp.Data.Services
     {
         //We use task due to the methoths need to be asynchoronus
         Task<IEnumerable<Expense>> GetAll();
-        Task Add(Expense expense);
+        Task Add(Expense expense);//Create method
 
         IQueryable GetChartData();
+        
+        // Get an expense by id
+        Task<Expense?> GetByIdAsync(int id);
+
+        // Delete an expense by id
+        Task Delete(int id);
+
+        //Task<Expense> GetByIdAsync(int id);
     }
 
 

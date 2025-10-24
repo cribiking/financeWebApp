@@ -55,7 +55,6 @@ namespace financeApp.Controllers
 
 
                 await _expensesService.Add(expense);
-
                 return RedirectToAction("Index");
             }
 
@@ -67,6 +66,26 @@ namespace financeApp.Controllers
         {
             var data = _expensesService.GetChartData();
             return Json(data);
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var expense = await _expensesService.GetByIdAsync(id);
+            if (expense == null)
+            {
+                return NotFound();
+            }
+
+            return View(expense);
+        }
+
+        [HttpPost, ActionName("Delete")]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> DeleteConfirmed(int id)
+        {
+            await _expensesService.Delete(id);
+            return RedirectToAction(nameof(Index));
         }
     }
 }

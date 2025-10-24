@@ -32,6 +32,10 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXhwZW5zZXMvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/cribi/finance_web_app/financeApp/Views/Expenses/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXhwZW5zZXMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/cribi/finance_web_app/financeApp/Views/Expenses/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXhwZW5zZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

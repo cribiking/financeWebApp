@@ -29,6 +29,20 @@ namespace financeApp.Data.Services
 
         }
 
+        public async Task<Expense?> GetByIdAsync(int id)
+        {
+            return await _context.Expenses.FindAsync(id);
+        }
+
+        public async Task Delete(int id)
+        {
+            var expense = await _context.Expenses.FindAsync(id);
+            if (expense == null) return;
+
+            _context.Expenses.Remove(expense);
+            await _context.SaveChangesAsync();
+        }
+
         public IQueryable GetChartData()
         {
             var data = _context.Expenses
