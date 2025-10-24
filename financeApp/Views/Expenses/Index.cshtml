@@ -21,7 +21,8 @@
                     <td>@item.Category</td>
                     <td>@item.Date.ToString(format: "yyyy-MM-dd")</td>
                         <td>
-                            <a asp-controller="Expenses" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm">Delete</a>
+                            <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary btn-sm">Edit</a>
+                            <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm">Delete</a>
                         </td>
                 </tr>
             }
@@ -29,33 +30,35 @@
     </table>
 </div>
 
-<h2>Expenses Chart</h2>
+<div class="chart-container mt-5 mb-5 p-4 border rounded-3 bg-light ">
+    <h2>Expenses Chart</h2>
 
-<div>
-  <canvas style="max-width=450px; max-height:450px"id="myChart"></canvas>
+    <div>
+    <canvas style="max-width=450px; max-height:450px"id="myChart"></canvas>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <script>
+        const ctx = document.getElementById('myChart');
+
+        fetch('/Expenses/GetChart')
+            .then(response => response.json())
+            .then(data => {
+                new Chart(ctx, {
+                    type: 'pie',
+                    data: {
+                        labels: data.map(d =>d.category),
+                        datasets: [{
+                        
+                        data: data.map(d => d.total),
+                        }]
+                    },
+
+                });
+
+            })
+
+        
+    </script>
 </div>
-
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-
-<script>
-    const ctx = document.getElementById('myChart');
-
-    fetch('/Expenses/GetChart')
-        .then(response => response.json())
-        .then(data => {
-            new Chart(ctx, {
-                  type: 'pie',
-                  data: {
-                    labels: data.map(d =>d.category),
-                    datasets: [{
-                      
-                      data: data.map(d => d.total),
-                    }]
-                  },
-
-            });
-
-        })
-
-    
-</script>

@@ -18,7 +18,6 @@
 /home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/scopedcss/bundle/financeApp.styles.css
 /home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/scopedcss/projectbundle/financeApp.bundle.scp.css
-/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/cayl9mzm63-lugek5hnai.gz
 /home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/pee9uwauam-61n19gt1b8.gz
 /home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/vh2ggqw01a-fr7q2aak1r.gz
 /home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/a23xbtanjz-bqjiyaj88i.gz
@@ -80,8 +79,6 @@
 /home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/v94p4i6vqf-muycvpuwrr.gz
 /home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/r0v8hyrzl8-87fc7y1x7t.gz
 /home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/2rdfpgfxvq-jfsiqqwiad.gz
-/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/nskf3nbhmw-4f469wqt7b.gz
-/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/rq2qv0fgtl-4f469wqt7b.gz
 /home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/staticwebassets.build.json
 /home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/staticwebassets.development.json
 /home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/staticwebassets.build.endpoints.json
@@ -338,3 +335,6 @@
 /home/cribi/finance_web_app/financeApp/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
 /home/cribi/finance_web_app/financeApp/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
 /home/cribi/finance_web_app/financeApp/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/cayl9mzm63-ns0dqzfsbo.gz
+/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/nskf3nbhmw-l8lrz07cen.gz
+/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/rq2qv0fgtl-l8lrz07cen.gz

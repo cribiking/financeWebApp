@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QqdsS0DBu1vNXMTu18Ifn4mqQhtwNVHX3Kf9uBDcnis=",
+  "Hash": "cAs/ZNWgx2CN03gX8CJdBuaMARKS+TVWa+hxXEsNXeU=",
   "Source": "financeApp",
   "BasePath": "_content/financeApp",
   "Mode": "Default",
@@ -374,12 +374,12 @@
       "OriginalItemSpec": "/home/cribi/finance_web_app/financeApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Identity": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/cayl9mzm63-lugek5hnai.gz",
+      "Identity": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/cayl9mzm63-ns0dqzfsbo.gz",
       "SourceId": "financeApp",
       "SourceType": "Discovered",
       "ContentRoot": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/financeApp",
-      "RelativePath": "css/site#[.{fingerprint=lugek5hnai}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=ns0dqzfsbo}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -388,8 +388,8 @@
       "RelatedAsset": "/home/cribi/finance_web_app/financeApp/wwwroot/css/site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "lb0jssabxu",
-      "Integrity": "n4te0btuR7bRk4mRh2N5HuBqCrDu5bjitpFCR/Qw63g=",
+      "Fingerprint": "w1ulxhoy3k",
+      "Integrity": "nM/M2v0cnGTJILqedfzLHJ/yHcUmlsbzj8BVhUwtsnk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/cribi/finance_web_app/financeApp/wwwroot/css/site.css"
@@ -836,12 +836,12 @@
       "OriginalItemSpec": "/home/cribi/finance_web_app/financeApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Identity": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/nskf3nbhmw-4f469wqt7b.gz",
+      "Identity": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/nskf3nbhmw-l8lrz07cen.gz",
       "SourceId": "financeApp",
       "SourceType": "Computed",
       "ContentRoot": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/financeApp",
-      "RelativePath": "financeApp#[.{fingerprint=4f469wqt7b}]?.styles.css.gz",
+      "RelativePath": "financeApp#[.{fingerprint=l8lrz07cen}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -850,8 +850,8 @@
       "RelatedAsset": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/scopedcss/bundle/financeApp.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "dxdwmjn6b0",
-      "Integrity": "f/9v7V5JnDvxfhvSNCFmDUjXeSB1DKbzM8tKbsxnUe0=",
+      "Fingerprint": "7ciby9dg2z",
+      "Integrity": "adiK+dmnVNTQWCy6HYnBiQFUz/+Yjv0WQtScjzONNGc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/scopedcss/bundle/financeApp.styles.css"
@@ -1004,12 +1004,12 @@
       "OriginalItemSpec": "/home/cribi/finance_web_app/financeApp/wwwroot/lib/jquery/dist/jquery.slim.min.map"
     },
     {
-      "Identity": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/rq2qv0fgtl-4f469wqt7b.gz",
+      "Identity": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/rq2qv0fgtl-l8lrz07cen.gz",
       "SourceId": "financeApp",
       "SourceType": "Computed",
       "ContentRoot": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/financeApp",
-      "RelativePath": "financeApp#[.{fingerprint=4f469wqt7b}]!.bundle.scp.css.gz",
+      "RelativePath": "financeApp#[.{fingerprint=l8lrz07cen}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -1018,8 +1018,8 @@
       "RelatedAsset": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/scopedcss/projectbundle/financeApp.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "dxdwmjn6b0",
-      "Integrity": "f/9v7V5JnDvxfhvSNCFmDUjXeSB1DKbzM8tKbsxnUe0=",
+      "Fingerprint": "7ciby9dg2z",
+      "Integrity": "adiK+dmnVNTQWCy6HYnBiQFUz/+Yjv0WQtScjzONNGc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/scopedcss/projectbundle/financeApp.bundle.scp.css"
@@ -1375,8 +1375,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "4f469wqt7b",
-      "Integrity": "4GTH6Ue0WQkkt7Y0K54E454Nqv6sHGl4G3a383uRYuU=",
+      "Fingerprint": "l8lrz07cen",
+      "Integrity": "u+gsqEXAdlb5DLY++j26jdy9O+R+9CyAy5re2UR4dx8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/scopedcss/bundle/financeApp.styles.css"
@@ -1396,8 +1396,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "4f469wqt7b",
-      "Integrity": "4GTH6Ue0WQkkt7Y0K54E454Nqv6sHGl4G3a383uRYuU=",
+      "Fingerprint": "l8lrz07cen",
+      "Integrity": "u+gsqEXAdlb5DLY++j26jdy9O+R+9CyAy5re2UR4dx8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/scopedcss/projectbundle/financeApp.bundle.scp.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "lugek5hnai",
-      "Integrity": "zeR5PHeeHbxfGkL8WV86OzdoF6UnjuCmnagaocD+cbo=",
+      "Fingerprint": "ns0dqzfsbo",
+      "Integrity": "uQTcMleoRhT1DhbyGPWGiJCVKOBvmzW2FUNIj/qyW3w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/site.css"
@@ -2729,12 +2729,12 @@
   "Endpoints": [
     {
       "Route": "css/site.css",
-      "AssetFile": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/cayl9mzm63-lugek5hnai.gz",
+      "AssetFile": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/cayl9mzm63-ns0dqzfsbo.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003194888179"
+          "Quality": "0.001440922190"
         }
       ],
       "ResponseHeaders": [
@@ -2744,15 +2744,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "312"
+          "Value": "693"
         },
         {
           "Name": "ETag",
-          "Value": "\"n4te0btuR7bRk4mRh2N5HuBqCrDu5bjitpFCR/Qw63g=\""
+          "Value": "\"nM/M2v0cnGTJILqedfzLHJ/yHcUmlsbzj8BVhUwtsnk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 05 Oct 2025 12:07:46 GMT"
+          "Value": "Fri, 24 Oct 2025 15:22:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2772,13 +2772,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"zeR5PHeeHbxfGkL8WV86OzdoF6UnjuCmnagaocD+cbo=\""
+          "Value": "W/\"uQTcMleoRhT1DhbyGPWGiJCVKOBvmzW2FUNIj/qyW3w=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zeR5PHeeHbxfGkL8WV86OzdoF6UnjuCmnagaocD+cbo="
+          "Value": "sha256-uQTcMleoRhT1DhbyGPWGiJCVKOBvmzW2FUNIj/qyW3w="
         }
       ]
     },
@@ -2793,7 +2793,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "637"
+          "Value": "1672"
         },
         {
           "Name": "Content-Type",
@@ -2801,11 +2801,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zeR5PHeeHbxfGkL8WV86OzdoF6UnjuCmnagaocD+cbo=\""
+          "Value": "\"uQTcMleoRhT1DhbyGPWGiJCVKOBvmzW2FUNIj/qyW3w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 05 Oct 2025 12:07:46 GMT"
+          "Value": "Fri, 24 Oct 2025 15:22:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2815,13 +2815,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zeR5PHeeHbxfGkL8WV86OzdoF6UnjuCmnagaocD+cbo="
+          "Value": "sha256-uQTcMleoRhT1DhbyGPWGiJCVKOBvmzW2FUNIj/qyW3w="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/cayl9mzm63-lugek5hnai.gz",
+      "AssetFile": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/cayl9mzm63-ns0dqzfsbo.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2830,7 +2830,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "312"
+          "Value": "693"
         },
         {
           "Name": "Content-Type",
@@ -2838,11 +2838,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"n4te0btuR7bRk4mRh2N5HuBqCrDu5bjitpFCR/Qw63g=\""
+          "Value": "\"nM/M2v0cnGTJILqedfzLHJ/yHcUmlsbzj8BVhUwtsnk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 05 Oct 2025 12:07:46 GMT"
+          "Value": "Fri, 24 Oct 2025 15:22:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2860,18 +2860,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-n4te0btuR7bRk4mRh2N5HuBqCrDu5bjitpFCR/Qw63g="
+          "Value": "sha256-nM/M2v0cnGTJILqedfzLHJ/yHcUmlsbzj8BVhUwtsnk="
         }
       ]
     },
     {
-      "Route": "css/site.lugek5hnai.css",
-      "AssetFile": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/cayl9mzm63-lugek5hnai.gz",
+      "Route": "css/site.ns0dqzfsbo.css",
+      "AssetFile": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/cayl9mzm63-ns0dqzfsbo.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003194888179"
+          "Quality": "0.001440922190"
         }
       ],
       "ResponseHeaders": [
@@ -2881,15 +2881,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "312"
+          "Value": "693"
         },
         {
           "Name": "ETag",
-          "Value": "\"n4te0btuR7bRk4mRh2N5HuBqCrDu5bjitpFCR/Qw63g=\""
+          "Value": "\"nM/M2v0cnGTJILqedfzLHJ/yHcUmlsbzj8BVhUwtsnk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 05 Oct 2025 12:07:46 GMT"
+          "Value": "Fri, 24 Oct 2025 15:22:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2909,13 +2909,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"zeR5PHeeHbxfGkL8WV86OzdoF6UnjuCmnagaocD+cbo=\""
+          "Value": "W/\"uQTcMleoRhT1DhbyGPWGiJCVKOBvmzW2FUNIj/qyW3w=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "lugek5hnai"
+          "Value": "ns0dqzfsbo"
         },
         {
           "Name": "label",
@@ -2923,12 +2923,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-zeR5PHeeHbxfGkL8WV86OzdoF6UnjuCmnagaocD+cbo="
+          "Value": "sha256-uQTcMleoRhT1DhbyGPWGiJCVKOBvmzW2FUNIj/qyW3w="
         }
       ]
     },
     {
-      "Route": "css/site.lugek5hnai.css",
+      "Route": "css/site.ns0dqzfsbo.css",
       "AssetFile": "/home/cribi/finance_web_app/financeApp/wwwroot/css/site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2938,7 +2938,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "637"
+          "Value": "1672"
         },
         {
           "Name": "Content-Type",
@@ -2946,11 +2946,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zeR5PHeeHbxfGkL8WV86OzdoF6UnjuCmnagaocD+cbo=\""
+          "Value": "\"uQTcMleoRhT1DhbyGPWGiJCVKOBvmzW2FUNIj/qyW3w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 05 Oct 2025 12:07:46 GMT"
+          "Value": "Fri, 24 Oct 2025 15:22:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2960,7 +2960,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "lugek5hnai"
+          "Value": "ns0dqzfsbo"
         },
         {
           "Name": "label",
@@ -2968,13 +2968,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-zeR5PHeeHbxfGkL8WV86OzdoF6UnjuCmnagaocD+cbo="
+          "Value": "sha256-uQTcMleoRhT1DhbyGPWGiJCVKOBvmzW2FUNIj/qyW3w="
         }
       ]
     },
     {
-      "Route": "css/site.lugek5hnai.css.gz",
-      "AssetFile": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/cayl9mzm63-lugek5hnai.gz",
+      "Route": "css/site.ns0dqzfsbo.css.gz",
+      "AssetFile": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/cayl9mzm63-ns0dqzfsbo.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2983,7 +2983,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "312"
+          "Value": "693"
         },
         {
           "Name": "Content-Type",
@@ -2991,11 +2991,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"n4te0btuR7bRk4mRh2N5HuBqCrDu5bjitpFCR/Qw63g=\""
+          "Value": "\"nM/M2v0cnGTJILqedfzLHJ/yHcUmlsbzj8BVhUwtsnk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 05 Oct 2025 12:07:46 GMT"
+          "Value": "Fri, 24 Oct 2025 15:22:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3013,7 +3013,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "lugek5hnai"
+          "Value": "ns0dqzfsbo"
         },
         {
           "Name": "label",
@@ -3021,7 +3021,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-n4te0btuR7bRk4mRh2N5HuBqCrDu5bjitpFCR/Qw63g="
+          "Value": "sha256-nM/M2v0cnGTJILqedfzLHJ/yHcUmlsbzj8BVhUwtsnk="
         }
       ]
     },
@@ -3324,13 +3324,13 @@
       ]
     },
     {
-      "Route": "financeApp.4f469wqt7b.bundle.scp.css",
-      "AssetFile": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/rq2qv0fgtl-4f469wqt7b.gz",
+      "Route": "financeApp.bundle.scp.css",
+      "AssetFile": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/rq2qv0fgtl-l8lrz07cen.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001879699248"
+          "Quality": "0.001798561151"
         }
       ],
       "ResponseHeaders": [
@@ -3340,19 +3340,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "531"
+          "Value": "555"
         },
         {
           "Name": "ETag",
-          "Value": "\"f/9v7V5JnDvxfhvSNCFmDUjXeSB1DKbzM8tKbsxnUe0=\""
+          "Value": "\"adiK+dmnVNTQWCy6HYnBiQFUz/+Yjv0WQtScjzONNGc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 05 Oct 2025 12:08:18 GMT"
+          "Value": "Fri, 24 Oct 2025 15:36:08 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -3368,26 +3368,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4GTH6Ue0WQkkt7Y0K54E454Nqv6sHGl4G3a383uRYuU=\""
+          "Value": "W/\"u+gsqEXAdlb5DLY++j26jdy9O+R+9CyAy5re2UR4dx8=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "4f469wqt7b"
-        },
-        {
-          "Name": "label",
-          "Value": "financeApp.bundle.scp.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-4GTH6Ue0WQkkt7Y0K54E454Nqv6sHGl4G3a383uRYuU="
+          "Value": "sha256-u+gsqEXAdlb5DLY++j26jdy9O+R+9CyAy5re2UR4dx8="
         }
       ]
     },
     {
-      "Route": "financeApp.4f469wqt7b.bundle.scp.css",
+      "Route": "financeApp.bundle.scp.css",
       "AssetFile": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/scopedcss/projectbundle/financeApp.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3397,7 +3389,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1079"
+          "Value": "1154"
         },
         {
           "Name": "Content-Type",
@@ -3405,11 +3397,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4GTH6Ue0WQkkt7Y0K54E454Nqv6sHGl4G3a383uRYuU=\""
+          "Value": "\"u+gsqEXAdlb5DLY++j26jdy9O+R+9CyAy5re2UR4dx8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 05 Oct 2025 12:08:18 GMT"
+          "Value": "Fri, 24 Oct 2025 15:36:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u+gsqEXAdlb5DLY++j26jdy9O+R+9CyAy5re2UR4dx8="
+        }
+      ]
+    },
+    {
+      "Route": "financeApp.bundle.scp.css.gz",
+      "AssetFile": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/rq2qv0fgtl-l8lrz07cen.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "555"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"adiK+dmnVNTQWCy6HYnBiQFUz/+Yjv0WQtScjzONNGc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 15:36:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-adiK+dmnVNTQWCy6HYnBiQFUz/+Yjv0WQtScjzONNGc="
+        }
+      ]
+    },
+    {
+      "Route": "financeApp.l8lrz07cen.bundle.scp.css",
+      "AssetFile": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/rq2qv0fgtl-l8lrz07cen.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001798561151"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "555"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"adiK+dmnVNTQWCy6HYnBiQFUz/+Yjv0WQtScjzONNGc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 15:36:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"u+gsqEXAdlb5DLY++j26jdy9O+R+9CyAy5re2UR4dx8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l8lrz07cen"
+        },
+        {
+          "Name": "label",
+          "Value": "financeApp.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u+gsqEXAdlb5DLY++j26jdy9O+R+9CyAy5re2UR4dx8="
+        }
+      ]
+    },
+    {
+      "Route": "financeApp.l8lrz07cen.bundle.scp.css",
+      "AssetFile": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/scopedcss/projectbundle/financeApp.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1154"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u+gsqEXAdlb5DLY++j26jdy9O+R+9CyAy5re2UR4dx8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 15:36:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3419,7 +3556,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4f469wqt7b"
+          "Value": "l8lrz07cen"
         },
         {
           "Name": "label",
@@ -3427,13 +3564,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4GTH6Ue0WQkkt7Y0K54E454Nqv6sHGl4G3a383uRYuU="
+          "Value": "sha256-u+gsqEXAdlb5DLY++j26jdy9O+R+9CyAy5re2UR4dx8="
         }
       ]
     },
     {
-      "Route": "financeApp.4f469wqt7b.bundle.scp.css.gz",
-      "AssetFile": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/rq2qv0fgtl-4f469wqt7b.gz",
+      "Route": "financeApp.l8lrz07cen.bundle.scp.css.gz",
+      "AssetFile": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/rq2qv0fgtl-l8lrz07cen.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3442,7 +3579,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "531"
+          "Value": "555"
         },
         {
           "Name": "Content-Type",
@@ -3450,11 +3587,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"f/9v7V5JnDvxfhvSNCFmDUjXeSB1DKbzM8tKbsxnUe0=\""
+          "Value": "\"adiK+dmnVNTQWCy6HYnBiQFUz/+Yjv0WQtScjzONNGc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 05 Oct 2025 12:08:18 GMT"
+          "Value": "Fri, 24 Oct 2025 15:36:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3472,7 +3609,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4f469wqt7b"
+          "Value": "l8lrz07cen"
         },
         {
           "Name": "label",
@@ -3480,18 +3617,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-f/9v7V5JnDvxfhvSNCFmDUjXeSB1DKbzM8tKbsxnUe0="
+          "Value": "sha256-adiK+dmnVNTQWCy6HYnBiQFUz/+Yjv0WQtScjzONNGc="
         }
       ]
     },
     {
-      "Route": "financeApp.4f469wqt7b.styles.css",
-      "AssetFile": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/nskf3nbhmw-4f469wqt7b.gz",
+      "Route": "financeApp.l8lrz07cen.styles.css",
+      "AssetFile": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/nskf3nbhmw-l8lrz07cen.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001879699248"
+          "Quality": "0.001798561151"
         }
       ],
       "ResponseHeaders": [
@@ -3501,15 +3638,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "531"
+          "Value": "555"
         },
         {
           "Name": "ETag",
-          "Value": "\"f/9v7V5JnDvxfhvSNCFmDUjXeSB1DKbzM8tKbsxnUe0=\""
+          "Value": "\"adiK+dmnVNTQWCy6HYnBiQFUz/+Yjv0WQtScjzONNGc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 05 Oct 2025 12:08:18 GMT"
+          "Value": "Fri, 24 Oct 2025 15:36:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3529,13 +3666,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4GTH6Ue0WQkkt7Y0K54E454Nqv6sHGl4G3a383uRYuU=\""
+          "Value": "W/\"u+gsqEXAdlb5DLY++j26jdy9O+R+9CyAy5re2UR4dx8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4f469wqt7b"
+          "Value": "l8lrz07cen"
         },
         {
           "Name": "label",
@@ -3543,12 +3680,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4GTH6Ue0WQkkt7Y0K54E454Nqv6sHGl4G3a383uRYuU="
+          "Value": "sha256-u+gsqEXAdlb5DLY++j26jdy9O+R+9CyAy5re2UR4dx8="
         }
       ]
     },
     {
-      "Route": "financeApp.4f469wqt7b.styles.css",
+      "Route": "financeApp.l8lrz07cen.styles.css",
       "AssetFile": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/scopedcss/bundle/financeApp.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3558,7 +3695,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1079"
+          "Value": "1154"
         },
         {
           "Name": "Content-Type",
@@ -3566,11 +3703,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4GTH6Ue0WQkkt7Y0K54E454Nqv6sHGl4G3a383uRYuU=\""
+          "Value": "\"u+gsqEXAdlb5DLY++j26jdy9O+R+9CyAy5re2UR4dx8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 05 Oct 2025 12:08:18 GMT"
+          "Value": "Fri, 24 Oct 2025 15:36:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3580,7 +3717,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4f469wqt7b"
+          "Value": "l8lrz07cen"
         },
         {
           "Name": "label",
@@ -3588,13 +3725,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4GTH6Ue0WQkkt7Y0K54E454Nqv6sHGl4G3a383uRYuU="
+          "Value": "sha256-u+gsqEXAdlb5DLY++j26jdy9O+R+9CyAy5re2UR4dx8="
         }
       ]
     },
     {
-      "Route": "financeApp.4f469wqt7b.styles.css.gz",
-      "AssetFile": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/nskf3nbhmw-4f469wqt7b.gz",
+      "Route": "financeApp.l8lrz07cen.styles.css.gz",
+      "AssetFile": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/nskf3nbhmw-l8lrz07cen.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3603,7 +3740,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "531"
+          "Value": "555"
         },
         {
           "Name": "Content-Type",
@@ -3611,11 +3748,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"f/9v7V5JnDvxfhvSNCFmDUjXeSB1DKbzM8tKbsxnUe0=\""
+          "Value": "\"adiK+dmnVNTQWCy6HYnBiQFUz/+Yjv0WQtScjzONNGc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 05 Oct 2025 12:08:18 GMT"
+          "Value": "Fri, 24 Oct 2025 15:36:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3633,7 +3770,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4f469wqt7b"
+          "Value": "l8lrz07cen"
         },
         {
           "Name": "label",
@@ -3641,155 +3778,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-f/9v7V5JnDvxfhvSNCFmDUjXeSB1DKbzM8tKbsxnUe0="
-        }
-      ]
-    },
-    {
-      "Route": "financeApp.bundle.scp.css",
-      "AssetFile": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/rq2qv0fgtl-4f469wqt7b.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001879699248"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "531"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"f/9v7V5JnDvxfhvSNCFmDUjXeSB1DKbzM8tKbsxnUe0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 05 Oct 2025 12:08:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"4GTH6Ue0WQkkt7Y0K54E454Nqv6sHGl4G3a383uRYuU=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-4GTH6Ue0WQkkt7Y0K54E454Nqv6sHGl4G3a383uRYuU="
-        }
-      ]
-    },
-    {
-      "Route": "financeApp.bundle.scp.css",
-      "AssetFile": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/scopedcss/projectbundle/financeApp.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1079"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"4GTH6Ue0WQkkt7Y0K54E454Nqv6sHGl4G3a383uRYuU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 05 Oct 2025 12:08:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-4GTH6Ue0WQkkt7Y0K54E454Nqv6sHGl4G3a383uRYuU="
-        }
-      ]
-    },
-    {
-      "Route": "financeApp.bundle.scp.css.gz",
-      "AssetFile": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/rq2qv0fgtl-4f469wqt7b.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "531"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"f/9v7V5JnDvxfhvSNCFmDUjXeSB1DKbzM8tKbsxnUe0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 05 Oct 2025 12:08:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-f/9v7V5JnDvxfhvSNCFmDUjXeSB1DKbzM8tKbsxnUe0="
+          "Value": "sha256-adiK+dmnVNTQWCy6HYnBiQFUz/+Yjv0WQtScjzONNGc="
         }
       ]
     },
     {
       "Route": "financeApp.styles.css",
-      "AssetFile": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/nskf3nbhmw-4f469wqt7b.gz",
+      "AssetFile": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/nskf3nbhmw-l8lrz07cen.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001879699248"
+          "Quality": "0.001798561151"
         }
       ],
       "ResponseHeaders": [
@@ -3799,15 +3799,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "531"
+          "Value": "555"
         },
         {
           "Name": "ETag",
-          "Value": "\"f/9v7V5JnDvxfhvSNCFmDUjXeSB1DKbzM8tKbsxnUe0=\""
+          "Value": "\"adiK+dmnVNTQWCy6HYnBiQFUz/+Yjv0WQtScjzONNGc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 05 Oct 2025 12:08:18 GMT"
+          "Value": "Fri, 24 Oct 2025 15:36:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3827,13 +3827,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4GTH6Ue0WQkkt7Y0K54E454Nqv6sHGl4G3a383uRYuU=\""
+          "Value": "W/\"u+gsqEXAdlb5DLY++j26jdy9O+R+9CyAy5re2UR4dx8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4GTH6Ue0WQkkt7Y0K54E454Nqv6sHGl4G3a383uRYuU="
+          "Value": "sha256-u+gsqEXAdlb5DLY++j26jdy9O+R+9CyAy5re2UR4dx8="
         }
       ]
     },
@@ -3848,7 +3848,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1079"
+          "Value": "1154"
         },
         {
           "Name": "Content-Type",
@@ -3856,11 +3856,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4GTH6Ue0WQkkt7Y0K54E454Nqv6sHGl4G3a383uRYuU=\""
+          "Value": "\"u+gsqEXAdlb5DLY++j26jdy9O+R+9CyAy5re2UR4dx8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 05 Oct 2025 12:08:18 GMT"
+          "Value": "Fri, 24 Oct 2025 15:36:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3870,13 +3870,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4GTH6Ue0WQkkt7Y0K54E454Nqv6sHGl4G3a383uRYuU="
+          "Value": "sha256-u+gsqEXAdlb5DLY++j26jdy9O+R+9CyAy5re2UR4dx8="
         }
       ]
     },
     {
       "Route": "financeApp.styles.css.gz",
-      "AssetFile": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/nskf3nbhmw-4f469wqt7b.gz",
+      "AssetFile": "/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/nskf3nbhmw-l8lrz07cen.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3885,7 +3885,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "531"
+          "Value": "555"
         },
         {
           "Name": "Content-Type",
@@ -3893,11 +3893,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"f/9v7V5JnDvxfhvSNCFmDUjXeSB1DKbzM8tKbsxnUe0=\""
+          "Value": "\"adiK+dmnVNTQWCy6HYnBiQFUz/+Yjv0WQtScjzONNGc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 05 Oct 2025 12:08:18 GMT"
+          "Value": "Fri, 24 Oct 2025 15:36:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3915,7 +3915,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-f/9v7V5JnDvxfhvSNCFmDUjXeSB1DKbzM8tKbsxnUe0="
+          "Value": "sha256-adiK+dmnVNTQWCy6HYnBiQFUz/+Yjv0WQtScjzONNGc="
         }
       ]
     },

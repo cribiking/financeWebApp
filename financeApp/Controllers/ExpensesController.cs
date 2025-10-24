@@ -87,5 +87,39 @@ namespace financeApp.Controllers
             await _expensesService.Delete(id);
             return RedirectToAction(nameof(Index));
         }
+
+        [HttpGet]
+        public async Task<IActionResult> Edit(int id)
+        {
+            var expense = await _expensesService.GetByIdAsync(id);
+            if (expense == null)
+            {
+                return NotFound();
+            }
+            return View(expense);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Edit(int id, Expense expense)
+        {
+            if (id != expense.Id)
+            {
+                return NotFound();
+            }
+
+            if (ModelState.IsValid)
+            {
+                // Convert to UTC just like in Create
+                if (expense.Date.Kind != DateTimeKind.Utc)
+                {
+                    expense.Date = expense.Date.ToUniversalTime();
+                }
+
+                await _expensesService.Update(expense);
+                return RedirectToAction(nameof(Index));
+            }
+            return View(expense);
+        }
     }
 }

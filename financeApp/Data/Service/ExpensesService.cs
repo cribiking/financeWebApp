@@ -43,6 +43,12 @@ namespace financeApp.Data.Services
             await _context.SaveChangesAsync();
         }
 
+        public async Task Update(Expense expense)
+        {
+            _context.Expenses.Update(expense);
+            await _context.SaveChangesAsync();
+        }
+
         public IQueryable GetChartData()
         {
             var data = _context.Expenses

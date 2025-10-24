@@ -47,3 +47,8 @@ button.accept-policy[b-5hnbdagaks] {
   white-space: nowrap;
   line-height: 60px;
 }
+
+.chart-container[b-5hnbdagaks] {
+  position: relative;
+  height: 400px;
+}
