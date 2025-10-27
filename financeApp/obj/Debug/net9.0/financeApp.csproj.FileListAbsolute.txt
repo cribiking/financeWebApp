@@ -336,5 +336,5 @@
 /home/cribi/finance_web_app/financeApp/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
 /home/cribi/finance_web_app/financeApp/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
 /home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/cayl9mzm63-ns0dqzfsbo.gz
-/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/nskf3nbhmw-l8lrz07cen.gz
-/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/rq2qv0fgtl-l8lrz07cen.gz
+/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/nskf3nbhmw-dybhgnkaqe.gz
+/home/cribi/finance_web_app/financeApp/obj/Debug/net9.0/compressed/rq2qv0fgtl-dybhgnkaqe.gz
